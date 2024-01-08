@@ -9,11 +9,13 @@ richardstallman.org
   - I enjoy the haphazard setup and wild variety of topics
   - The page layout reminds me of the 90s
   - From the creator of the GNU project
+  - Very wide range of topics which users might find interesting
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Bad:  
-  - There is no cohesive, unifying reason to have the site
+  - There is no cohesive, unifying reason to have the site, besides the ramblings of a misunderstood genius
   - Little interaction on the site
   - Lack of options for user (dark mode, suggested pages, etc)
+  - The page layout will mostly be seen as a bad thing by most people
 
 ------------------------
 pcpartpicker.com
@@ -37,7 +39,7 @@ reddit.com and old.reddit.com
   - everything on the site seems to work smoothly  
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Bad:  
-  - A lot of ads, and ads that are disguised as posts  
+  - A lot of ads and ads that are disguised as posts  
   - reddit and old.reddit are different, that could be bad.  
 
 ------------------------
