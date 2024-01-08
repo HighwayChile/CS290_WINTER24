@@ -6,14 +6,14 @@ First assignment for CS290 class (Web Development)
 richardstallman.org
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
-  - I enjoy the haphazard setup and wild variety of topics  
-  - The page layout reminds me of the 90s  
-  - From the creator of the GNU project  
+  - I enjoy the haphazard setup and wild variety of topics
+  - The page layout reminds me of the 90s
+  - From the creator of the GNU project
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Bad:  
-  - There is no cohesive, unifying reason to have the site  
-  - Little interaction on the site  
-  - Lack of options for user (dark mode, suggested pages, etc)  
+  - There is no cohesive, unifying reason to have the site
+  - Little interaction on the site
+  - Lack of options for user (dark mode, suggested pages, etc)
 
 ------------------------
 pcpartpicker.com
