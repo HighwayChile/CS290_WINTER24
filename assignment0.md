@@ -1,5 +1,5 @@
 # CS290_WINTER24 Assignment #0
-Public repository for CS290 class (Web Development)
+First assignment for CS290 class (Web Development)
 
 # 5 Websites I like or dislike
 ------------------------
@@ -56,9 +56,18 @@ youtube.com
   - Lots of ads and they are trying to say people using adblcokers are bad people
 
 ------------------------
-5) 
+coinbase.com
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
+  - Easy for beginners to use
+  - Simple layout that guides user through the crypto process, step by step
+  - Access to magic internet money
+  - This site is also almost never down.
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Bad:  
+  - The rules and fees can be difficult to find (support)
+  - Does not explain the purpose of magic internet money, nor does it ever mention self-governance (makes sense, they are a business and they want to hold on to it for you)
+  - They recently created "coinbase advanced" and that made the site rather clunky, but lowers fees for user
+  - Refresh will often not work, and user has to exit the site and come back
+  - Layout is somewhat counter-intuitive. I think it might be better on mobile
 
