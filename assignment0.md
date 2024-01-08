@@ -3,7 +3,7 @@ First assignment for CS290 class (Web Development)
 
 # 5 Websites I like or dislike
 ------------------------
-richardstallman.org
+stallman.org
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - I enjoy the haphazard setup and wild variety of topics
