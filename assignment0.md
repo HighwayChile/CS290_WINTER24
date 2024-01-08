@@ -3,7 +3,7 @@ Public repository for CS290 class (Web Development)
 
 # 5 Websites I like or dislike
 ------------------------
-1) richardstallman.org
+richardstallman.org
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - I enjoy the haphazard setup and wild variety of topics  
@@ -13,23 +13,23 @@ Public repository for CS290 class (Web Development)
 &nbsp;&nbsp;&nbsp;&nbsp;The Bad:  
   - There is no cohesive, unifying reason to have the site  
   - Little interaction on the site  
-  - Lack of options for user  
+  - Lack of options for user (dark mode, suggested pages, etc)  
 
 ------------------------
-2) pcpartpicker.com
+pcpartpicker.com
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - I like the simplicity of the UI on the home page  
   - Updated constantly, rarely showing out of date info  
   - Aesthetically appealing  
-  - easy to find and change search filters/parameters  
+  - Easy change search filters/parameters  
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Bad:  
-  - Hard to find some PC parts in the dropdowns, i.e. Monitors  
+  - Hard to find some PC parts in the dropdowns, like Monitors  
   - Not a complete list of internet PC part deals  
 
 ------------------------
-3) reddit.com and old.reddit.com
+reddit.com and old.reddit.com
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - The visual layout is great for a forum  
@@ -41,12 +41,19 @@ Public repository for CS290 class (Web Development)
   - reddit and old.reddit are different, that could be bad.  
 
 ------------------------
-4) 
+youtube.com
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
+  - Very useful search bar
+  - I will never run out of things to watch
+  - Everything works
+  - Never seen a 502 error
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Bad:  
-
+  - designed using social engineering to keep users on the site for as long as possible
+  - I will never run out of things to watch
+  - systematically removes videos that do not align politically with youtube's desires (I loved watching conspiracy videos about Antarctica on youtube, then one day thay were all gone)
+  - Lots of ads and they are trying to say people using adblcokers are bad people
 
 ------------------------
 5) 
