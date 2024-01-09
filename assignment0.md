@@ -18,7 +18,7 @@ First assignment for CS290 class (Web Development)
   - The page layout will mostly be seen as a bad thing by most people
 
 ------------------------
-[pcpartpicker.com](pcpartpicker.com)
+[pcpartpicker.com](https://pcpartpicker.com/)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - I like the simplicity of the UI on the home page  
@@ -31,7 +31,7 @@ First assignment for CS290 class (Web Development)
   - Not a complete list of internet PC part deals  
 
 ------------------------
-[reddit.com](reddit.com) and [old.reddit.com](old.reddit.com)
+[reddit.com](https://www.reddit.com/) and [old.reddit.com](https://old.reddit.com/)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - The visual layout is great for a forum  
@@ -43,7 +43,7 @@ First assignment for CS290 class (Web Development)
   - reddit and old.reddit are different, that could be bad.  
 
 ------------------------
-[youtube.com](youtube.com)
+[youtube.com](https://www.youtube.com/)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - Very useful search bar
@@ -58,7 +58,7 @@ First assignment for CS290 class (Web Development)
   - Lots of ads and they are trying to say people using adblcokers are bad people
 
 ------------------------
-[coinbase.com](coinbase.com)
+[coinbase.com](https://www.coinbase.com)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - Easy for beginners to use
