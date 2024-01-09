@@ -3,7 +3,7 @@ First assignment for CS290 class (Web Development)
 
 # 5 Websites I like or dislike
 ------------------------
-stallman.org
+[stallman.org](stallman.org)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - I enjoy the haphazard setup and wild variety of topics
@@ -18,7 +18,7 @@ stallman.org
   - The page layout will mostly be seen as a bad thing by most people
 
 ------------------------
-pcpartpicker.com
+[pcpartpicker.com](pcpartpicker.com)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - I like the simplicity of the UI on the home page  
@@ -31,7 +31,7 @@ pcpartpicker.com
   - Not a complete list of internet PC part deals  
 
 ------------------------
-reddit.com and old.reddit.com
+[reddit.com](reddit.com) and [old.reddit.com](old.reddit.com)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - The visual layout is great for a forum  
@@ -43,7 +43,7 @@ reddit.com and old.reddit.com
   - reddit and old.reddit are different, that could be bad.  
 
 ------------------------
-youtube.com
+[youtube.com](youtube.com)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - Very useful search bar
@@ -58,7 +58,7 @@ youtube.com
   - Lots of ads and they are trying to say people using adblcokers are bad people
 
 ------------------------
-coinbase.com
+[coinbase.com](coinbase.com)
 ------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;The Good:  
   - Easy for beginners to use
