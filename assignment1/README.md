@@ -6,7 +6,7 @@ Jan 15, 2024
 Assignment01   
 Create a basic HTML page with the instructed elements
 
-#All elements are denoted by comments ("'<!--text-->'")
+#All elements are denoted by comments (""<!--text-->"")
 
 
 &nbsp;  
