@@ -5,6 +5,7 @@ Jan 15, 2024
 
 Assignment01  
 All elements are denoted by comments in the code  
+&nbsp;  
 Create a basic HTML page with the instructed elements:
 Create a simple webpage as a first attempt at creating structure for your web 
 app design using at least the following HTML elements:  
