@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="eng-US">
+  <head>
+    <meta charset=""UTF-8">
+    <meta name="description" content="table001 for assign01">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <style>
+    /* got style reccomendation on stackoverflow */
+  table, th, td {
+    margin: 10px;
+    /* border */
+    border: 2px solid black; 
+    padding: 25px;
+    text-align: center;
+    align-items: center;
+    border-collapse: collapse;
+  }
+  </style>
+
+  <body>
+  <table>
+    <!-- caption -->
+    <caption>Live Updates</caption>
+    <!-- header -->
+    <thead>
+      <tr>
+        <th>Dogecoin Price</th>
+        <th>Most Recent Block</th>
+        <th>Number of Blocks</th>
+      </tr>
+    </thead>
+    <!-- body -->
+    <tbody>
+    <tr>
+      <td>doge_price_element</td>
+      <td>last_block_element</td>
+      <td>total_blocks_element</td>
+    </tr>
+    </tbody>
+    <!-- footer -->
+    <tfoot>
+      <tr>
+        <!-- spanning columns -->
+        <th colspan="3">Current Difficulty</th>
+      </tr>
+      <tr>
+        <td colspan="3">current_diff_element</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+
+</html>

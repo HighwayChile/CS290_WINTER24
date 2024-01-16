@@ -1,63 +1,71 @@
-<!--
-  Create a simple webpage as a first attempt at creating structure for your web 
-  app design using at least the following HTML elements: 
-    doctype,    √
-    html,       √
-    head,       √
-    body,       √
-    meta,       √
-    lang,       √
-    title,      √
-    headers (at least 3 from h1-h6),      √
-    paragraphs (p),                       √
-    lists (ol, ul, dl), 
-    line breaks (br), 
-    anchor (a, a link to another page),   √
-    relative path,                        √
-    absolute path, 
-    fragment identifier, 
-    image,      √
-    video, 
-    width, 
-    height, 
-    alt, 
-    table, 
-    row, 
-    data cell, 
-    border, 
-    table caption, 
-    table header, 
-    table body, 
-    table footer, 
-    spanning columns
--->
-
+<!-- doctype, html, head, lang -->
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+    <!-- meta -->
     <meta charset="UTF-8">
     <meta name="description" content="Dickie's Assignment 1">
     <meta name="keywords" content="doge, crypto, cryptocoin, cryptocurrency, 
     blockchain, block, wallet, address, addres, adress, explorer, explore, 
-    search">
+    search, dogecoin, coin, dog, dogcoin, shiba, inu, shib, sheeb, cheems, bonk,
+    litecoin, ltc, trade, trades, trading, hash, transaction, bork, much, money,
+    such, currency">
     <meta name="author" content="Dickie">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- title -->
     <title>Dogesplorer</title>
   </head>
+  <style>
+    /* got style reccomendation on stackoverflow */
+  table, th, td {
+    margin: 10px;
+    padding: 25px;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  </style>
   <body>
-    <h1>Dogesplorer</h1>
-    <h2>Dogecoin Address Explorer</h2>
-    <!--This is a comment!-->
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSTQoc3lNEA
-    PGnErDlKqQhQl8YRoG2ueX1g&usqp=CAU">
-    <img src="img001.jpg" alt="Another photo of the great Howard Hughes!">
+    <!-- headers 1 & 2 -->
+    <h1 style="text-align: center;">Dogesplorer</h1>
+    <h2 style="text-align: center;">Dogecoin Address Explorer</h2>
+    <!-- table, th, tr, td -->
+    <table>
+      <caption style="text-align: center;">Enter a wallet address, 
+        transaction hash, or block address to search</caption>
+      <tr>
+        <!-- image, relative path -->
+        <th><img src="./doge_logo.jpg" height="50" width="50"></th>
+        <td><textarea rows="1" cols="150"> -type search stuff here- </textarea></td>
+        <td>search_button_element</td>
+      </tr>
+    </table>
+    <!-- absolute path, alt, width, height -->
+    <iframe width="19%" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSTQoc3lNEAPGnErDlKqQhQl8YRoG2ueX1g&usqp=CAU" 
+    alt="Photo of the great Howard Hughes!"></iframe>
+    <iframe width="7.36%" src="./img001.jpg" 
+    alt="Another photo of the great Howard Hughes!"></iframe>
+    <iframe width="35%" height="320" src="./table001.html" 
+    alt="Price/Block ticker"></iframe>
+    <!-- header 3 -->
     <h3>Learn to invest like Howard Hughes!</h3>
+
+    <!-- anchor, fragment identifier, paragraph, line break -->
+    <p>click<a href="#currency_list"> here </a>to skip directly to description list using a fragment identifier</p>
     <p>Dogesplorer is the #1 site in the World for exploring the Doge blockchain! 
       <br>Just enter a wallet address, a transaction hash, or a 
       block address to see the details!</p>
     <p>Here is a different site that actually works: 
       <a href="https://dogechain.info/">#2 Doge Explorer in the World</a></p>
 
+    <h1>DOGE ENERGY RN!!!! (NEWS)</h1>
+    <!-- video, width, height -->
+    <iframe src="https://archive.org/embed/koto-jabdah-live-perfromance" width="640" height="480" frameborder="0" webkitallowfullscreen="true" 
+    mozallowfullscreen="true" allowfullscreen></iframe>
+    <br>
+    <br>
+
+    <!-- ordered list -->
     <h2>Ordered List</h2>
     <ol>
       <li>block00</li>
@@ -67,18 +75,100 @@
       <li>block04</li>
       <li>block05</li>
     </ol>
-
+    <!-- unordered list -->
     <h2>Unordered List</h2>
     <ul>
-      <li>block04</li>
-      <li>block00</li>
-      <li>block01</li>
-      <li>block05</li>
-      <li>block03</li>
-      <li>block02</li>
+      <li>wallet04</li>
+      <li>wallet00</li>
+      <li>wallet01</li>
+      <li>wallet05</li>
+      <li>wallet03</li>
+      <li>wallet02</li>
     </ul>
 
+    <!-- data definition list with fragment anchor -->
+    <h2 id="currency_list">Data Definition List or Description List</h2>
+    <dl>
+      <dh>Why Dogecoin is better:</dh>
+      <br>
+      <br>
+      <dt>Affordable!</dt>
+      <dd>Nearly free to send and receive</dd>
+      <dt>Fast!</dt>
+      <dd>Instant trades!</dd>
+      <dt>Cute!</dt>
+      <dd>Would you just look at 'em?</dd>
+      <dt>Dogecoin</dt>
+      <dd>The very finest and most decentralized cryptocurrency of them all</dd>
+      <dt>Pitiful USD</dt>
+      <dd>Worthless paper with an out of control inflation rate</dd>
+      <dt>Gold/Silver</dt>
+      <dd>Man, that stuff is HEAVY!</dd>
+    </dl>
 
+    <!-- please ignore as best you can, I was playing with settings to learn how things work -->
+    <h1>The following text is gobbledygook for added length in testing<br>
+      (generated using the site: https://www.lipsum.com/)</h1>
+    <p lang= "la">
+      <iframe src="./text0001.txt"></iframe>
+      <br>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus porttitor justo at fermentum. <br>
+      Vestibulum sodales felis et est commodo, non convallis tellus tincidunt. Sed tincidunt commodo ultricies. <br>
+      In posuere mauris sodales elit laoreet dictum. Integer orci dolor, aliquam porttitor dui nec, sagittis <br>
+      fringilla arcu. Nulla congue gravida dolor, eget finibus tortor pellentesque at. Praesent elit nunc, <br>
+      imperdiet et viverra at, blandit a magna. Morbi eleifend tellus ut sapien pellentesque tristique. <br>
+      Pellentesque suscipit ipsum sit amet pellentesque dapibus. Quisque eu ornare nisl. Proin in enim vitae <br>
+      neque bibendum blandit eget a leo. Phasellus viverra enim orci, a volutpat massa elementum at.<br>
+      <br>
+      Phasellus nunc est, aliquam eu finibus ac, mattis vitae mi. In vel imperdiet neque. Sed porta urna est, <br>
+      vitae dignissim ipsum feugiat vel. Cras varius, mi in mollis fermentum, felis sapien blandit ipsum, quis <br>
+      molestie nisi nulla vitae est. Cras aliquam lorem sed libero pretium bibendum. Duis pellentesque quam <br>
+      justo. Fusce eu ante id odio vulputate sollicitudin. Quisque congue dui arcu, in gravida massa egestas <br>
+      vel. Aliquam faucibus lobortis metus quis rhoncus. Nam lacinia, massa ut dapibus venenatis, turpis ipsum <br>
+      posuere libero, ut ullamcorper orci urna vel justo. Donec tristique ipsum dui, eu vehicula libero consectetur <br>
+      eu. Praesent elementum vel lacus et facilisis. Aliquam luctus imperdiet massa at suscipit. Duis sem nunc, <br>
+      commodo id faucibus blandit, maximus et erat. Integer ac porta purus.<br>
+      <br>
+      Aliquam a sem in lacus porta accumsan. Pellentesque varius nulla non massa sodales bibendum. Aenean id nulla <br>
+      dapibus, bibendum nulla ac, facilisis nulla. Nullam sollicitudin, odio posuere elementum ullamcorper, ligula <br>
+      ipsum pharetra orci, nec tincidunt felis nisl nec felis. Vestibulum ullamcorper at nulla quis placerat. Donec <br>
+      laoreet, lacus ut elementum venenatis, libero ipsum lacinia nisi, pellentesque semper orci orci et metus. Etiam <br>
+      aliquam massa sed enim porttitor, a egestas odio ornare. Orci varius natoque penatibus et magnis dis parturient <br>
+      montes, nascetur ridiculus mus. Mauris aliquet ipsum sapien, quis pharetra justo aliquam a. Quisque in dictum <br>
+      orci. Nullam ut mauris vel urna rhoncus accumsan mollis eget odio. Aliquam euismod neque sapien, quis <br>
+      pellentesque ex eleifend in. Mauris et turpis at dolor aliquet rutrum ac eget leo. Curabitur rutrum sem sem, <br>
+      in viverra nulla consequat id. Aliquam erat volutpat. <br>
+      <br>
+      Vivamus id accumsan nisl. Donec commodo eros in urna venenatis, ut dapibus libero sagittis. Cras in quam <br>
+      pellentesque, gravida ipsum sed, tincidunt dui. Pellentesque feugiat hendrerit interdum. Pellentesque a <br>
+      rhoncus arcu, sed lobortis erat. Nunc hendrerit, enim vitae tristique semper, augue mi ultricies arcu, ut <br>
+      vulputate nibh justo dapibus lacus. Sed et turpis congue, lacinia massa a, tempus dui. Vivamus aliquam <br>
+      quis nibh quis scelerisque. Donec ut risus urna. Vivamus efficitur ante vel ipsum eleifend, vitae malesuada <br>
+      nulla vehicula. Pellentesque cursus lectus sem, eu dignissim sem blandit non. Mauris congue, felis in <br>
+      commodo efficitur, nisi orci ornare sem, sed tincidunt nisi orci vitae odio. Curabitur dignissim dictum <br>
+      purus at aliquam. <br>
+      <br>
+      Suspendisse id placerat purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut ac ante <br>
+      at nulla lacinia imperdiet. Pellentesque fermentum leo nec magna iaculis lobortis. Vivamus ut sapien diam. <br>
+      Vestibulum non nibh sed nunc tristique sagittis quis nec lectus. Nulla vel fermentum justo. Maecenas <br>
+      fermentum, lorem sit amet aliquam vehicula, massa enim tristique diam, sed tincidunt dolor augue non dui. <br>
+      Donec ultrices pellentesque metus quis interdum. Ut dapibus a purus vitae lacinia. Donec vel arcu nec <br>
+      nulla placerat placerat. 
+    </p>
 
+    <!-- This was my playlist for codin' -->
+    <h2>Was having fun, listening to music while playing with settings</h2>
+    <iframe src="https://archive.org/embed/KOTO_Visitors" width="640" height="360" 
+    frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/FWzrcb8qZg8?si=QIuQeIx0mpMKgThZ" width="640" height="360"
+    frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://archive.org/embed/Baltimora_Woody_Boogie" width="640" height="360" 
+    frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    <iframe src="https://archive.org/embed/Baltimora-Tarzan_Boy" width="640" height="360"
+    frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Gq_7F6bXISQ?si=d47jfz_nrxiiV8tk" width="640" height="360" title="Kyu Sakamoto 'Let's Make It Happen'" 
+    frameborder="0" mozallowfullscreen="true" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/ktOdCe-UEmM?si=vQaMDpmw4uST-VzQ" title="YouTube video player" 
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </body>
 </html>
