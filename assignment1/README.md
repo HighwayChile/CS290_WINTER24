@@ -13,7 +13,9 @@ scan it, because the Library was closed, and I do not own
 a smartphone with which I could take a picture. Will  
 update this readme with a drawing by Wed. morning, Jan 17.
 &nbsp;  
+&nbsp;  
 UPDATE: Library still closed all day Wed. Will scan and uplaod ASAP.
+&nbsp;  
 &nbsp;  
 Create a basic HTML page with the instructed elements:    
   doctype,    √  
