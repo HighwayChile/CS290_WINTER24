@@ -12,7 +12,7 @@ I have a design drawing for my site, but was unable to
 scan it, because the Library was closed, and I do not own  
 a smartphone with which I could take a picture. Will  
 update this readme with a drawing by Wed. morning, Jan 17.  
-#UPDATE: Library still closed all day Wed. Will scan and uplaod ASAP.
+UPDATE: Library still closed all day Wed. Will scan and uplaod ASAP.
 &nbsp;  
 Create a basic HTML page with the instructed elements:    
   doctype,    √  
