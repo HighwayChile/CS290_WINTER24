@@ -12,6 +12,7 @@ I have a design drawing for my site, but was unable to
 scan it, because the Library was closed, and I do not own  
 a smartphone with which I could take a picture. Will  
 update this readme with a drawing by Wed. morning, Jan 17.
+![CS290_01description](https://github.com/HighwayChile/CS290_WINTER24/assets/46361031/534e4231-7ce7-4055-8335-d1505e3ce142)
 &nbsp;  
 &nbsp;  
 UPDATE: Library still closed all day Wed. Will scan and uplaod ASAP.
