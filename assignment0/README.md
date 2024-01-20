@@ -73,3 +73,11 @@ First assignment for CS290 class (Web Development)
   - Refresh will often not work, and user has to exit the site and come back
   - Layout is somewhat counter-intuitive. I think it might be better on mobile
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+--------------------------------------------------------------------------
