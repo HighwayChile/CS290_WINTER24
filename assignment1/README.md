@@ -50,10 +50,8 @@ Create a basic HTML page with the instructed elements:
   spanning columns       √  
 
 
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&br
+&br
+&br
 ----------------------------------
 
