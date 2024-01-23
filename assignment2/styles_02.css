@@ -1,0 +1,121 @@
+/* this is my styles css file */
+/* this holds all examples of font: 
+    family, size, style, variant, 
+    and weight all in shorthand! */
+/* color throughout */
+html {
+    background-color: lightgreen;}
+
+table {
+    width: 100%;
+}
+
+td {
+    width: 50%;
+    margin: 10px;
+    /* border */
+    border: 2px solid royalblue; 
+    /* padding */
+    padding: 25px; 
+    text-align: center; 
+    align-items: center;
+}
+
+ol {
+    padding-top: 25px;
+}
+
+li {
+    width: 50%;
+    font-family: arial;
+    font-size: 200%;
+    color: purple;
+    border-style: solid;
+    border-color: royalblue
+}
+
+p {
+    width: 100%;
+    /* text align */
+    text-align: center;
+    /* text decoration */
+    text-decoration: underline;
+    font-family: arial;
+    font-style: serif;
+    font-size: 250%;
+}
+
+h4 {
+    text-indent: 90%;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+caption {
+    font-style: italic;
+    border: 2px solid royalblue; 
+    padding: 25px; 
+    text-align: center; 
+    font-weight: 600;
+}
+
+[topofpage] {
+    padding-bottom: 50px;
+    background-color: goldenrod;
+    /* line height */
+    line-height: 1.5;
+}
+
+/* learned from AI*/
+/* font variant */
+.small-caps {
+    font-variant: small-caps;
+}
+
+/* learned in class */
+.container {
+    border: 4px solid orange;
+    background-color: aquamarine;
+}
+
+.containee {
+    font-size: 400%;
+}
+
+/* class selector */
+.movielist {
+    border: 2px solid purple;
+    background-color: aqua;
+}
+
+/* learned from AI, confirmed on something called "logrocket" https://blog.logrocket.com/css-full-page-background/*/
+/* I am hoping that logrocket is not automatically generated with AI! */
+.background-image {
+    background: url('./img/lou-diamond-phillips-pencil-greg-joens.jpg');
+}
+
+/* id selector */
+#ordered_list {
+
+    background-color: black;
+}
+
+/* Color Selectors for links(anchors) */
+/* stolen from W3schools via Joseph Jess */
+/* This is for all paragraphs */
+p:hover {
+    background-color: yellow;
+}
+/* unvisited link */
+a:link {
+    color: blue;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: green;
+}
+a:active {
+    color: yellow;
+}
