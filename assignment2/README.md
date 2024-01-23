@@ -1,5 +1,6 @@
 # assignment02
 
+Hello, for this assignment I was trying to make a sort of Rotten Tomatoes or IMDB emulator, but only for Lou Diamond Phillips movies.
 
   be sure to include at least the following CSS properties:  
   class attribute, √  
