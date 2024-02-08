@@ -6,5 +6,7 @@ I also want to add user interactivity in search and user ratings/reviews
 #PLANS  
 1. create search function  
 2. add rating system - two buttons: rough and diamond  
-3. finish movie pages/write different reviews
-4. provide text field for user-provided revies - text and submit and write to page?
+3. finish movie pages/write unique reviews  
+4. provide text field for user-provided reviews - input text, submit and write to page?  
+5. add nav menus instead of current tables  
+6. perhaps move the movielist/loulist to the browse page  
